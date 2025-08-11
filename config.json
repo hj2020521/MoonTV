@@ -7,7 +7,7 @@
       "detail": "http://caiji.dyttzyapi.com"
     },
     "gaoqing": {
-      "api": "https://api.yzzy-api.com/inc/api_mac10.php",
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
       "name": "高清资源",
     },
     "heimuer": {
